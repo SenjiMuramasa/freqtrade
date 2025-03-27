@@ -4,6 +4,7 @@ on:
     branches:
     - main
     - master
+    - develop
 
 ## GITHUB_TOKEN authentication, add only if you're not going to use a PAT
 permissions:
